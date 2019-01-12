@@ -1,3 +1,4 @@
+-- Created by h4rp3r.
 print ('HUD successfully loaded.')
 
 surface.CreateFont("default", { -- You can edit name of font.
