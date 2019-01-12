@@ -1,4 +1,4 @@
 # scripts
 *Do not read me.*
-*Close this file*
-_Thank you_
+*Close this file.*
+_Thank you!_
