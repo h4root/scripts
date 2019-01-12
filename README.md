@@ -1,2 +1,4 @@
 # scripts
-Garry's Mod lua scripts
+*Do not read me.*
+*Close this file*
+_Thank you_
