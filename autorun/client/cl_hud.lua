@@ -36,7 +36,7 @@ function hud()
 end 
 
 -- Do not touch anything under this line.
-hook.Add("HUDPaint", "MeinHUD", hud)
+hook.Add("HUDPaint", "MainHUD", hud)
  
 function hidehud(name)
     for k, v in pairs({"CHudHealth", "CHudBattery"}) do
