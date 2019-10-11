@@ -14,11 +14,7 @@ function hud()
     local health = LocalPlayer():Health()
     local armor = LocalPlayer():Armor()
 
-
     -- Health
-
-    
-
     draw.RoundedBox(3, 10, ScrH() - 20 - 15, 200, 25, Color(15,15,15,140)) -- HP Background.
     if (health <= 100) then draw.RoundedBox(3, 10, ScrH() - 20 - 15, health * 2, 25, Color(240,50,50,200)) end -- HP Bar.
     if (health > 100) then draw.RoundedBox(3, 10, ScrH() - 20 - 15, 200, 25, Color(50,240,50,200)) end -- HP > 100
